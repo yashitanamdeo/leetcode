@@ -19,7 +19,24 @@ class Solution:
 # Method 2
 class Solution:
     def reverseString(self, s: List[str]) -> None:
-        """
-        Do not return anything, modify s in-place instead.
-        """
         s[:] = s[::-1]
+
+# Method 3
+class Solution:
+    def reverseString(self, s: List[str]) -> None:
+        s.reverse()
+
+# Method 4 (similar to method 1)
+class Solution:
+    def reverseString(self, s: List[str]) -> None:
+        start = 0
+        end = len(s) - 1
+        
+        while start < end:
+            temp = s[start]
+            s[start] = s[end]
+            s[end] = temp
+            
+            start += 1
+            end -= 1
+        return s
