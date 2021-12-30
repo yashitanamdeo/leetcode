@@ -12,3 +12,5 @@ class Solution:
                     return index
             else:
                 return len(nums)
+
+""" to learn::-- https://leetcode.com/problems/search-insert-position/discuss/1596603/C%2B%2BPython-Simple-Solutions-w-Explanation-or-Recursive-and-Iterative-Binary-Search """
