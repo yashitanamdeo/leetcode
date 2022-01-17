@@ -17,3 +17,5 @@ class Solution:
             elif d.get(words[i]) != pattern[i]: return False # if it doesn't exists then get method will return None. This is to remove key value error
             i += 1
         return True
+
+# Post: https://leetcode.com/problems/word-pattern/discuss/1697674/Python-Solution
