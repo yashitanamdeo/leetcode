@@ -1,8 +1,5 @@
-<h1 align="center"> My Python <a href= "https://leetcode.com/yashitanamdeo/">Leetcode</a> Solutions</h1>
+<h1 align="center"> My <a href= "https://leetcode.com/yashitanamdeo/"><img src="https://user-images.githubusercontent.com/49322948/150185385-9e463109-24ef-4c01-9ebf-7b7d57d8cf18.png" width="180" height="40"/></a> Solutions </h1>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/49322948/150185385-9e463109-24ef-4c01-9ebf-7b7d57d8cf18.png" width="600" height="130"/></p>
-
-<h2 align="center"> Problems & Solutions </h2>
 
 [Python](https://github.com/yashitanamdeo/leetcode) full list to be updated..
 
