@@ -22,3 +22,5 @@ class Solution:
             else:
                 word.append(title[i].capitalize())
         return " ".join(word)
+
+# Post: https://leetcode.com/problems/capitalize-the-title/discuss/1716077/python-easy-solution
