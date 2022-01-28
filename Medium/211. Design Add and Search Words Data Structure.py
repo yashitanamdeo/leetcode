@@ -17,7 +17,29 @@ class WordDictionary(object):
             if c != '.': ans &= self.dict[(i, c)]
         return True if len(ans) else False
         
+# Alternate Solution
+'''
+class WordDictionary:
 
+    def __init__(self):
+        self.d = collections.defaultdict(list)
+        
+
+    def addWord(self, word: str) -> None:
+        self.d[len(word)] += [word]
+        
+
+    def search(self, word: str) -> bool:
+        if '.' not in word:
+            return word in self.d[len(word)]
+        for x in self.d[len(word)]:
+            for i in range(len(word)):
+                if word[i] != x[i] and word[i] != '.':
+                    break
+            else:
+                return True
+        return False
+'''
 
 # Your WordDictionary object will be instantiated and called as such:
 # obj = WordDictionary()
