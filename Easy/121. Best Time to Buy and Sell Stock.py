@@ -13,3 +13,20 @@ class Solution:
                 buy = sell
             sell += 1
         return max_profit
+
+# Alternate Solution
+'''
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        bestProfit = 0
+        
+        minBuy = float('inf')
+        
+        for price in prices:
+            if price < minBuy:
+                minBuy = price
+            elif price - minBuy > bestProfit:
+                bestProfit = price - minBuy
+        
+        return bestProfit
+'''
