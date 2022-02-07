@@ -9,3 +9,14 @@ class Solution:
                 return index
             leftSum += num
         return -1
+
+# Alternate Solution
+class Solution:
+    def pivotIndex(self, nums: List[int]) -> int:
+        leftsum = 0
+        total_sum = sum(nums)
+        for i in range(len(nums)):
+            if leftsum == total_sum - leftsum - nums[i]:
+                return i
+            leftsum += nums[i]
+        return -1
