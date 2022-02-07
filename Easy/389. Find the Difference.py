@@ -6,7 +6,7 @@ class Solution:
             if t.count(letter) != s.count(letter):
                 return letter
 
-# Alternate Solution
+# Alternate Solution 1
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
         if len(s) == 0:
@@ -20,3 +20,15 @@ class Solution:
                 return t[index]
         
         return t[-1]
+
+#Alternate Solution 2
+from collections import Counter
+class Solution:
+    def findTheDifference(self, s: str, t: str) -> str:
+        s_counts = Counter(s)
+        t_counts = Counter(t)
+        for i in t_counts:
+            if t_counts[i] > s_counts[i]:
+                return i  
+            
+        
