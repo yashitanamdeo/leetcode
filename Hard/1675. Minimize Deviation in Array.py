@@ -14,3 +14,19 @@ class Solution:
                     ma = max(ma, a * 2)
                     heapq.heappush(pq, [a * 2, a0])
             return int(res)
+
+'''
+For each a in A,
+divide a by 2 until it is an odd.
+Push divided a and its original value in to the pq.
+
+The current max value in pq is noted as ma.
+We iterate from the smallest value in pq,
+Update res = min(res, ma - a),
+then we check we can get a * 2.
+
+If a is an odd, we can get a * 2,
+If a < a0, which is its original value, we can also get a*2.
+
+If we can, we push [a*2,a0] back to the pq and continue this process.
+'''
