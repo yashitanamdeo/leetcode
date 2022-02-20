@@ -1,6 +1,6 @@
 # Problem Statement: https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/
 
-class Solutions:
+class Solution:
     def sumOfThree(self, num: int) -> List[int]:
         n = (num - 3)  // 3
         if 3*n + 3 == num:
