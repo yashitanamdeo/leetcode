@@ -14,6 +14,11 @@ class Solution:
                 count -= 1
         return maximum
     
+# Alternate Solution
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        nums.sort()
+        return nums[len(nums)//2]
 
 '''
 def majorityElement(self, nums):
