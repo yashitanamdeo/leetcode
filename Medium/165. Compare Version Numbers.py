@@ -10,5 +10,5 @@ class Solution:
             if v1 > v2:
                 return 1
             elif v1 < v2:
-                return -1;
-        return 0;
+                return -1
+        return 0
