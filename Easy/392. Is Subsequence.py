@@ -12,3 +12,18 @@ class Solution:
 
                     subsequence+=1
         return  subsequence == len(s) 
+
+# Alternate Solution
+class Solution:
+    def isSubsequence(self, s, t):
+        for c in s:
+            i = t.find(c)
+            if i == -1:
+                return False
+            else:
+                t = t[i+1:]
+        return True
+'''
+ If current char is not in t, then we return False
+Else, we take the substring of t and start from there
+'''
