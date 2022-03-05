@@ -30,3 +30,15 @@ class Solution:
             max_points[i] = max( take_integer_i, not_to_take_integer_i)
         
         return max_points[-1]
+
+'''
+Given nums = [2,2,3,3,3,4]
+
+reduce it to House Robbery problem
+
+score = [0, 0, 2+2, 3+3+3, 4] = [0, 0, 4, 9, 4]
+
+Max points of Delete and Eran with [2,2,3,3,3,4]
+= Max value of Leetcode 198: House Robbery with [0, 0, 4, 9, 4]
+= 9
+'''
