@@ -2,7 +2,7 @@
 <a href= "https://leetcode.com/yashitanamdeo/"><img src="https://user-images.githubusercontent.com/49322948/150185385-9e463109-24ef-4c01-9ebf-7b7d57d8cf18.png" width="450" height="auto/"/><br><br><br><br>
  
 
-[![Solved](https://img.shields.io/badge/Solved-104/2197-337ab7.svg?style=flat)](https://github.com/yashitanamdeo/leetcode)
+[![Solved](https://img.shields.io/badge/Solved-109/2197-337ab7.svg?style=flat)](https://github.com/yashitanamdeo/leetcode)
 [![Easy](https://img.shields.io/badge/Easy-57-5cb85c.svg?style=flat)](https://github.com/yashitanamdeo/leetcode/tree/main/Easy)
 [![Medium](https://img.shields.io/badge/Medium-38-f0ad4e.svg?style=flat)](https://github.com/yashitanamdeo/leetcode/tree/main/Medium)
 [![Hard](https://img.shields.io/badge/Hard-10-d9534f.svg?style=flat)](https://github.com/yashitanamdeo/leetcode/tree/main/Hard)
