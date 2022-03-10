@@ -3,7 +3,7 @@
  
 
 [![Solved](https://img.shields.io/badge/Solved-104/2197-337ab7.svg?style=flat)](https://github.com/yashitanamdeo/leetcode)
-[![Easy](https://img.shields.io/badge/Easy-56-5cb85c.svg?style=flat)](https://github.com/yashitanamdeo/leetcode/tree/main/Easy)
+[![Easy](https://img.shields.io/badge/Easy-57-5cb85c.svg?style=flat)](https://github.com/yashitanamdeo/leetcode/tree/main/Easy)
 [![Medium](https://img.shields.io/badge/Medium-38-f0ad4e.svg?style=flat)](https://github.com/yashitanamdeo/leetcode/tree/main/Medium)
 [![Hard](https://img.shields.io/badge/Hard-10-d9534f.svg?style=flat)](https://github.com/yashitanamdeo/leetcode/tree/main/Hard)
 </br>
