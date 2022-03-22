@@ -14,3 +14,26 @@ class Solution:
                 output = alphabets[value] + output
                 k -=  value
         return output
+
+
+# Accepted
+class Solution:
+    def getSmallestString(self, n: int, k: int) -> str:
+        output = ['a'] * n #Since we are forming the lexicographically smallest string, we just simply fill our result with 'a'
+        # But, that result will not necessarily have the required score n
+        # we can add some 'z' to the back of the result until the score reaches the required value.
+        # if we are missing less than 26 to the required score, we add something that is less than 'z'.
+        k = k - n 
+        i = n - 1
+        while k:
+            k += 1
+            if k//26 >= 1:
+                output[i] = 'z'
+                k = k - 26
+                i -= 1
+            else:
+                output[i] = chr(k + 96)
+                k = 0
+
+        return ''.join(output)
+        
