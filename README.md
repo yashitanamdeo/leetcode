@@ -2,8 +2,8 @@
 <a href= "https://leetcode.com/yashitanamdeo/"><img src="https://user-images.githubusercontent.com/49322948/150185385-9e463109-24ef-4c01-9ebf-7b7d57d8cf18.png" width="450" height="auto/"/><br><br><br><br>
  
 
-[![Solved](https://img.shields.io/badge/Solved-145/2219-337ab7.svg?style=flat)](https://github.com/yashitanamdeo/leetcode)
-[![Easy](https://img.shields.io/badge/Easy-76-5cb85c.svg?style=flat)](https://github.com/yashitanamdeo/leetcode/tree/main/Easy)
+[![Solved](https://img.shields.io/badge/Solved-146/2219-337ab7.svg?style=flat)](https://github.com/yashitanamdeo/leetcode)
+[![Easy](https://img.shields.io/badge/Easy-77-5cb85c.svg?style=flat)](https://github.com/yashitanamdeo/leetcode/tree/main/Easy)
 [![Medium](https://img.shields.io/badge/Medium-56-f0ad4e.svg?style=flat)](https://github.com/yashitanamdeo/leetcode/tree/main/Medium)
 [![Hard](https://img.shields.io/badge/Hard-12-d9534f.svg?style=flat)](https://github.com/yashitanamdeo/leetcode/tree/main/Hard)
 </br>
