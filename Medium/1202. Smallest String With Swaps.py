@@ -6,13 +6,13 @@ class Solution:
         for a,b in pairs:
             d[a].append(b)
             d[b].append(a)
-        #
+        
         def dfs(x,A):
             if x in d:
                 A.append(x)
                 for y in d.pop(x):
                     dfs(y,A)
-        #
+        
         s    = list(s)
         while d:
             x = next(iter(d))
