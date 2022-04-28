@@ -24,4 +24,4 @@ class Solution:
                     nd = abs(heights[nx][ny] - heights[x][y])
                     heapq.heappush(heap, (nd, nx, ny))
 
-        return visited
+        return res
