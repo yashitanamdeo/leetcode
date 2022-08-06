@@ -19,13 +19,13 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | --------------------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/yashitanamdeo/leetcode/blob/main/Easy/1.%20Two%20Sum.py) | Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python]() | Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/yashitanamdeo/leetcode/blob/main/Easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/yashitanamdeo/leetcode/blob/main/Easy/27.%20Remove%20Element.py) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/yashitanamdeo/leetcode/blob/main/Easy/35.%20Search%20Insert%20Position.py) | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/yashitanamdeo/leetcode/blob/main/Easy/53.%20Maximum%20Subarray.py) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python](https://github.com/yashitanamdeo/leetcode/blob/main/Easy/67.%20Add%20Binary.py) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](https://github.com/yashitanamdeo/leetcode/blob/main/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | Easy |
-|  | []() | []() |  |
 |  | []() | []() |  |
 |  | []() | []() |  |
 |  | []() | []() |  |
