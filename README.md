@@ -14,7 +14,7 @@
 
   
 <br><br>
-[Python](https://github.com/yashitanamdeo/leetcode) full list to be updated..(Readme is in progress) + SQL questions
+[Python](https://github.com/yashitanamdeo/leetcode) full list to be updated....(Readme is in progress) + SQL questions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | --------------------- |
