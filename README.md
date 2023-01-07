@@ -11,7 +11,7 @@
 [![Author](https://img.shields.io/badge/Author-Yashita%20Namdeo-blue.svg?style=flat)](https://leetcode.com/yashitanamdeo/)
 
 <br><br>
-[Python](https://github.com/yashitanamdeo/leetcode) full list to be updated...(Readme is in progress) + SQL questions
+[Python](https://github.com/yashitanamdeo/leetcode) full list to be updated...(Readme is in progress) + SQL/Database questions
 
 | #   | Title                                                                                                     | Solution                                                                                                                 | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------- |
